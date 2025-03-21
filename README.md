@@ -161,7 +161,7 @@ Future developments include:
 
 ## 📞 Contact
 
-For questions, discussions, or support, open an issue on GitHub or reach out via email *(coming soon)*.
+For questions, discussions, or support, open an issue on GitHub.
 
 Thank you for your interest in Varana! Together, let's make programming enjoyable, clear, and powerful.
 
